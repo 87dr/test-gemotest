@@ -6,8 +6,8 @@
 		<Metadata name="Catalog.Продавцы.ObjectModule" id="de93cbab-6819-40cf-9f28-fc9a2d31eaee.0" configVersion="bdc126ebc361c54496ed29c47f53289000000000"/>
 		<Metadata name="Configuration.Конфигурация" id="477d8e67-dac5-49ec-a45b-c30d7d8ce412" configVersion="f30033038c90934ca5ff42b80cc2ca2500000000"/>
 		<Metadata name="DataProcessor.РабочееМесто" id="bcfc0a0d-f061-4cca-a056-b372cf60e231" configVersion="e9dd3c4ee99e1844bd1b62b62f88b73a00000000"/>
-		<Metadata name="DataProcessor.РабочееМесто.Form.Форма" id="8e8c0c64-6585-4332-935c-0b9009f322c2" configVersion="34cf73693940a145b46c4520d1baf52400000000"/>
-		<Metadata name="DataProcessor.РабочееМесто.Form.Форма.Form" id="8e8c0c64-6585-4332-935c-0b9009f322c2.0" configVersion="f08ab423d012a748b283ad9e571d935f00000000"/>
+		<Metadata name="DataProcessor.РабочееМесто.Form.Форма" id="8e8c0c64-6585-4332-935c-0b9009f322c2" configVersion="20a4b8c0f82ef84a98b66facdaa04fb500000000"/>
+		<Metadata name="DataProcessor.РабочееМесто.Form.Форма.Form" id="8e8c0c64-6585-4332-935c-0b9009f322c2.0" configVersion="c9f0d143baca4a4e83b823a68101920e00000000"/>
 		<Metadata name="DataProcessor.РабочееМесто.Template.МакетОтборМагазинов" id="cecd487f-2430-4020-8d53-42f9c7c8d93c" configVersion="9019796825603f47bdd4120efa6acbfc00000000"/>
 		<Metadata name="DataProcessor.РабочееМесто.Template.МакетОтборМагазинов.Template" id="cecd487f-2430-4020-8d53-42f9c7c8d93c.0" configVersion="128416fbcea9b547853de40b956cf1a400000000"/>
 		<Metadata name="DataProcessor.РабочееМесто.Template.МакетОтборПродавцов" id="b5dee158-4f44-4f14-9042-06c6d62ad49b" configVersion="7fbca08028e29a42a1d20399d4868a7b00000000"/>
