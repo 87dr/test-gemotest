@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Catalog.Магазины" id="ab10e6f0-a81d-414b-a830-838eec53d36e" configVersion="cbce843065e3d648929a3e6d5bb6f04300000000"/>
+		<Metadata name="Catalog.Продавцы" id="de93cbab-6819-40cf-9f28-fc9a2d31eaee" configVersion="0a5200a9401eab4ca43f793e4a8ecf4100000000"/>
+		<Metadata name="Configuration.Конфигурация" id="477d8e67-dac5-49ec-a45b-c30d7d8ce412" configVersion="f30033038c90934ca5ff42b80cc2ca2500000000"/>
+		<Metadata name="DataProcessor.РабочееМесто" id="bcfc0a0d-f061-4cca-a056-b372cf60e231" configVersion="e9dd3c4ee99e1844bd1b62b62f88b73a00000000"/>
+		<Metadata name="DataProcessor.РабочееМесто.Form.Форма" id="8e8c0c64-6585-4332-935c-0b9009f322c2" configVersion="b116a4de4ca5d045a2153f8784411f7200000000"/>
+		<Metadata name="DataProcessor.РабочееМесто.Form.Форма.Form" id="8e8c0c64-6585-4332-935c-0b9009f322c2.0" configVersion="4a18c7b0c7a7a84db552df0c318daa6400000000"/>
+		<Metadata name="DataProcessor.РабочееМесто.Template.МакетОтборМагазинов" id="cecd487f-2430-4020-8d53-42f9c7c8d93c" configVersion="9019796825603f47bdd4120efa6acbfc00000000"/>
+		<Metadata name="DataProcessor.РабочееМесто.Template.МакетОтборМагазинов.Template" id="cecd487f-2430-4020-8d53-42f9c7c8d93c.0" configVersion="128416fbcea9b547853de40b956cf1a400000000"/>
+		<Metadata name="DataProcessor.РабочееМесто.Template.МакетОтборПродавцов" id="b5dee158-4f44-4f14-9042-06c6d62ad49b" configVersion="7fbca08028e29a42a1d20399d4868a7b00000000"/>
+		<Metadata name="DataProcessor.РабочееМесто.Template.МакетОтборПродавцов.Template" id="b5dee158-4f44-4f14-9042-06c6d62ad49b.0" configVersion="b19af13d0dc71b4aa023554181ce3dd300000000"/>
+		<Metadata name="InformationRegister.ПраваПродавцовНаМагазины" id="4819d204-f168-45ed-bd4a-1530a386692c" configVersion="1accdde382a8fe4abc6a4d9d4c8d87a500000000">
+			<Metadata name="InformationRegister.ПраваПродавцовНаМагазины.Dimension.Продавец" id="3c966f53-72fb-40c5-8414-ea917d28f065"/>
+			<Metadata name="InformationRegister.ПраваПродавцовНаМагазины.Dimension.Магазин" id="8ce0d7ef-c0ef-4296-af56-cad162b544cb"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="b348050c-3a58-4e08-852e-a0d5262ed9ef" configVersion="82b7aeae659ee049b947b0d1af21833c00000000"/>
+		<Metadata name="Subsystem.НСИ" id="8a738db1-1acb-430e-9d12-2f0d9ff11ed0" configVersion="0469f63ca86e824185f7e0d8eebe3fed00000000"/>
+		<Metadata name="Subsystem.Сервис" id="a0c77afe-0265-48d4-b726-6d432532d350" configVersion="85e2465f5b8b184792d7050f268a2c3e00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
